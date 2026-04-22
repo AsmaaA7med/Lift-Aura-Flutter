@@ -1,17 +1,32 @@
-# lift_aura_flutter
+# Lift Aura - Frontend
 
-A new Flutter project.
+Flutter frontend implementation of the Lift Aura fitness application.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+* Home Dashboard with AI Insight
+* AI Coach Chat UI
+* Workout Programs & Protocols
+* Nutrition Tracking
+* Progress Tracking
+* Profile & Settings
+* Subscription Plans
 
-A few resources to get you started if this is your first Flutter project:
+## Status
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+Frontend is fully implemented and ready for:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Backend integration
+* AI integration
+* Authentication system
+
+## Notes
+
+* Actions such as "Start Program", "Add Food", and "Save Changes" are UI-ready and prepared for backend connection.
+* Navigation and UX flows are fully implemented.
+
+## Tech Stack
+
+* Flutter
+* Dart
+
